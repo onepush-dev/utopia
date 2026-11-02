@@ -1,6 +1,6 @@
 # Utopia — open-source enterprise world model (DeepLethe, Apache-2.0). Deploy on Railway with one click.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/PENDING)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/_R4rxR)
 
 [Utopia](https://github.com/deeplethe/utopia) is DeepLethe's temporal knowledge base: it turns contracts, records and documents into dated facts (valid time + learned time) over an ontology, flags conflicts into a review queue, and exposes the base to agents over MCP. This template runs the upstream `ghcr.io/deeplethe/utopia:0.1.0-rc9` image (Rust server + web UI, pinned by digest), wrapped as `ghcr.io/onepush-dev/utopia:0.1.0-rc9`, with Postgres 16 + pgvector.
 
